@@ -92,7 +92,7 @@ header #logo {
 /*メニュー１個あたりの設定*/
 #menubar ul li {
 	float: left;	/*左に回り込み*/
-	width: 20%;		/*幅。今回は５個なので、100÷5=20。*/
+	width: 16.6%;		/*幅。今回は５個なので、100÷5=20。*/
 	font-size: 20px;	/*文字サイズ*/
 }
 #menubar ul li a {
@@ -350,7 +350,7 @@ body.is-fixed-menu #menubar ul.ddmenu li a {
 	flex-direction: column;			/*中のブロックを並べる向きの指定。これは縦に並べる意味。*/
 	width: 48%;						/*ブロック幅*/
 	margin-bottom: 20px;			/*ブロックの下に空ける余白*/
-	background: #70b0eb;				/*背景色*/
+	background: #ffffff00;				/*背景色*/
 	color: #fff;					/*文字色*/
 	border-radius: 5px;				/*角丸の指定。ほんの少し角が丸くなります。*/
 	overflow: hidden;				/*角丸から内容が飛び出ないよう、飛び出た部分を非表示にする指定*/
